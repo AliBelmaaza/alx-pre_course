@@ -1,2 +1,1 @@
-My first readme
-update
+I am learning to use Git and Github
